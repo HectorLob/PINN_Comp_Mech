@@ -1,3 +1,5 @@
+All credit for the code goes to the authors of the original repository https://github.com/JinshuaiBai/PINN_Comp_Mech. This repository is a fork of the original, with modifications made by Héctor Lobato, researcher at Leartiker.
+
 # Physics-informed neural network-based computational solid mechanics
 This repository provides numerical examples of physics-informed neural network-based computational solid mechanics framework. 
 
